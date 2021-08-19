@@ -12,5 +12,3 @@
     yarn        #npm install
     yarn dev    #npm run dev
 ```
-
-> It's free to give it a star ⭐️ if it work! 🤣
